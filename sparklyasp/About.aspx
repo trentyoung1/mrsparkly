@@ -5,9 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About
+        User Guide
     </h2>
     <p>
-        Put content here.
+        //TODO: Add user guide and help docs.
     </p>
 </asp:Content>
